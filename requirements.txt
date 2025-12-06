@@ -1,0 +1,9 @@
+numpy
+requests
+beautifulsoup4
+pypdf
+sentence-transformers
+dataclasses
+typing
+re
+webbrowser
