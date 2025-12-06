@@ -144,5 +144,5 @@ You can open this folder in Kiro and use the spec to:
 ---
 
 ## License
-
+[MIT License](LICENSE) © 2025 [abhinav-123457]
 
