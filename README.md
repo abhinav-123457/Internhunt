@@ -48,4 +48,15 @@ InternHunt is a local Python tool that reads your preferences (and optionally yo
 ## Installation
 
 Clone the repo and install dependencies:
-
+bash
+```
+https://github.com/abhinav-123457/Internhunt
+```
+bash
+```
+cd internhunt
+```
+bash
+```
+pip install -r requirements.txt
+```
