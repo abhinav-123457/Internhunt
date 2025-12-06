@@ -2,7 +2,7 @@
 
 > “I hate scrolling through 200 random internship listings, so I built InternHunt to find the few that actually fit my resume.”
 
-InternHunt is a local Python tool that reads your preferences (and optionally your resume) and surfaces the most relevant internships from Internshala and Unstop in a dark, clickable HTML dashboard.
+InternHunt is a local Python tool that reads your preferences (and optionally your resume) and surfaces the most relevant internships, clickable HTML dashboard.
 
 ---
 
