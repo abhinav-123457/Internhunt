@@ -386,7 +386,9 @@ Contributions are welcome! Please:
 
 ## License
 
-This project is for educational purposes. Use responsibly and ethically.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Note**: This tool is intended for personal use. Please respect the terms of service of each platform and use responsibly and ethically.
 
 ## Key Improvements in v6
 
