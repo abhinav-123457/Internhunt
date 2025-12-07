@@ -1,0 +1,78 @@
+JOHN DOE
+Software Engineering Intern
+
+Email: john.doe@email.com
+Phone: +91-9876543210
+Location: Bangalore, India
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+
+EDUCATION
+---------
+Bachelor of Technology in Computer Science
+Indian Institute of Technology, Delhi
+Expected Graduation: May 2025
+CGPA: 8.5/10
+
+TECHNICAL SKILLS
+----------------
+Programming Languages: Python, Java, JavaScript, C++, SQL
+Web Development: React, Node.js, Express.js, HTML, CSS, Django, Flask
+Machine Learning: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud & DevOps: AWS, Docker, Kubernetes, Git, Linux
+Tools: VS Code, Jupyter Notebook, Postman, JIRA
+
+PROJECTS
+--------
+1. E-Commerce Recommendation System
+   - Built a machine learning-based product recommendation engine using Python and TensorFlow
+   - Implemented collaborative filtering and content-based filtering algorithms
+   - Achieved 85% accuracy in predicting user preferences
+   - Technologies: Python, TensorFlow, Pandas, Flask, PostgreSQL
+
+2. Real-Time Chat Application
+   - Developed a full-stack chat application with real-time messaging
+   - Implemented WebSocket connections for instant message delivery
+   - Built RESTful API for user authentication and message history
+   - Technologies: React, Node.js, Express.js, MongoDB, Socket.io
+
+3. Automated Testing Framework
+   - Created a comprehensive testing framework for web applications
+   - Implemented unit tests, integration tests, and end-to-end tests
+   - Reduced bug detection time by 40%
+   - Technologies: Python, Selenium, PyTest, CI/CD
+
+EXPERIENCE
+----------
+Software Development Intern | TechCorp Solutions | June 2024 - August 2024
+- Developed RESTful APIs using Django and PostgreSQL
+- Implemented authentication and authorization using JWT
+- Collaborated with cross-functional teams using Agile methodology
+- Wrote unit tests achieving 90% code coverage
+
+Research Assistant | IIT Delhi AI Lab | January 2024 - May 2024
+- Conducted research on natural language processing and deep learning
+- Implemented transformer models for text classification tasks
+- Published findings in university research symposium
+- Technologies: Python, PyTorch, BERT, Transformers
+
+ACHIEVEMENTS
+------------
+- Winner of National Hackathon 2024 (Team of 4)
+- Google Code Jam Qualifier 2024
+- Published research paper on "Efficient Neural Networks for Edge Devices"
+- Contributed to 5+ open-source projects on GitHub
+
+CERTIFICATIONS
+--------------
+- AWS Certified Cloud Practitioner
+- Machine Learning Specialization (Coursera - Stanford University)
+- Full Stack Web Development (Udemy)
+
+INTERESTS
+---------
+- Artificial Intelligence and Machine Learning
+- Web Development and Cloud Computing
+- Open Source Contribution
+- Competitive Programming
