@@ -161,12 +161,8 @@ Dashboard location:         output/internhunt_results_20251207_130200.html
 ============================================================
 ✨ Happy job hunting! ✨
 ```
-<video width="600" controls>
-  <source src="output.mp4" type="video/mp4">
-</video>
-
-
 ## Output
+![Demo](output.gif)
 
 The application generates a beautiful dark-mode HTML dashboard in the `output/` directory with:
 
