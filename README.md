@@ -163,6 +163,7 @@ Dashboard location:         output/internhunt_results_20251207_130200.html
 ```
 
 ## Output
+
 <video src="output.mp4" controls></video>
 
 The application generates a beautiful dark-mode HTML dashboard in the `output/` directory with:
